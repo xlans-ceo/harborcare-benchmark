@@ -1,0 +1,14 @@
+{
+  "name": "harborcare-benchmark",
+  "version": "0.1.0",
+  "description": "Fictional Egyptian home-services benchmark",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/app.test.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "private": true
+}
